@@ -7,4 +7,6 @@
 
 ### Running the program:
 1. Clone the repository, I don't recommend downloading each and every single individual file.
-2. Compile and run or use an editor that has a built-in compiler like [VS Code](https://code.visualstudio.com/).
+2. Compile and run `SprintTyper.java` or use an editor that has a built-in compiler like [VS Code](https://code.visualstudio.com/).
+
+![Example](Example.png)
