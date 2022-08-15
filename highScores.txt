@@ -1,0 +1,17 @@
+Bob 4/4
+AVG WPM: 130
+
+Krishay 4/4
+AVG WPM: 102
+
+Alexis - 3/4
+AVG WPM: 132
+
+Billy Smith 3/4
+AVG WPM: 26
+
+Someone 3/4
+AVG WPM: 16
+
+A random user 3/4
+AVG WPM: 98
